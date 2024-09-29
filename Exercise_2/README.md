@@ -1,7 +1,7 @@
 # Concurrent Programming and Synchronization Mechanisms Assignment
 
 
-** Submission Due Date: 17.07.24 23:59:00 **
+** Submission Due Date: 17.07.25 23:59:00 **
 
 ### General Description
 
@@ -118,13 +118,13 @@ Co-Editor queue size = 17
 - **Language:** This assignment must be written in C or C++ (C++ is preferred belive me).
 - **Submission Format:** Submit a zip file named `ID.zip` (e.g., 123456.zip).
 - **Contents:** The zip file must contain all C files, a header file, and a Makefile.
-- **Executable Name:** The executable file created by the Makefile must be named `ex3.out`.
+- **Executable Name:** The executable file created by the Makefile must be named `ex2.out`.
 - **Executable File:** Do not include the executable (binary) file in your submission.
 - **Configuration File:** Your program will receive the name of the configuration file from the command line.
 
 **For example:**
 ```
-ex3.out config.txt
+ex2.out config.txt
 ```
 
 For questions, use the forum on the Moodle!
