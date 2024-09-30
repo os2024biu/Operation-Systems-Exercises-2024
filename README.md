@@ -1,1 +1,1 @@
-# Operation-Systems-Exercises-2024
+# Operation-Systems-Exercises-2025
